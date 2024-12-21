@@ -47,9 +47,9 @@ body{
      padding: 10px;
 }
 .boxes .box{
-     width:30px;
+     width:45px;
      aspect-ratio: 1/1;
-     padding: 15px 0;
+     padding: 14px 0;
      font-size: 1.4em;
      background: white;
      color: blue;
