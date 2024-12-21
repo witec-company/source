@@ -27,6 +27,7 @@ body{
 .error{
      display: flex;
      flex-direction: column;
+     padding: 40px;
 }
 .error span{
      display: flex;
