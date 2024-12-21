@@ -7,7 +7,6 @@
 }
 body{
      background: aliceblue;
-     overflow: hidden;
 }
 .scene{
      width: 100%;
@@ -72,9 +71,4 @@ body{
 }
 .boxes a:last-child .box {
     color: rgb(34, 34, 34) !important;
-}
-@media screen and(max-width: 500px){
-  body{
-    background:blue;
-  }
 }
