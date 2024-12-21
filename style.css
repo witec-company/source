@@ -71,7 +71,7 @@ body{
 .boxes a:last-child .box {
     color: rgb(34, 34, 34) !important;
 }
-@media and screen(max-width : 500px){
+@media screen and(max-width : 500px){
   body{
     background:blue;
   }
